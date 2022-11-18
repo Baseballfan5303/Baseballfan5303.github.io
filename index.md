@@ -1,3 +1,3 @@
-# Andrew Scheiner's GitHub Page
+##Projects
 
-**Andrew Scheiner**
+##Blog Posts (Connecting the Game)

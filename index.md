@@ -1,3 +1,3 @@
-##Projects
+## Projects
 
-##Blog Posts (Connecting the Game)
+## Blog Posts (Connecting the Game)

@@ -1,3 +1,3 @@
-## Projects
-
-## Blog Posts (Connecting the Game)
+---
+layout: home
+---

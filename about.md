@@ -12,6 +12,8 @@ software/app/web development and/or database management and visualization.
 
 Please feel free to check out my socials included on the bottom of the page and please email me with any questions you might have!
 
+
 ---
+
 
 **Thank you** to the maintainers and contributors at [the Jekyll Minima GitHub repo](https://github.com/jekyll/minima). I relied heavily on their coding concepts to build my site from the ground-up.

@@ -11,3 +11,10 @@ author:
 
 #Set description:
 description: A website to showcase my projects, skills, and interests in computer science, data analytics, development, sports, and more!
+
+#Social links:
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/Baseballfan5303" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/andrew-scheiner-8827b9233/" }

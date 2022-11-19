@@ -1,0 +1,13 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Hello! My name is Andrew Scheiner and thank you for taking the time to check out my new website hosted by GitHub pages.
+I live in Allentown, Pennsylvania and I am currently a sophomore at Dickinson College (Carlisle, PA) double majoring in both Computer Science and Data Analytics. 
+My experience includes data analysis and visualization, app and web development, research, and coding through college courses and jobs.
+I am currently looking for a internship close to my hometown for Summer '23 which includes working with computer science, data analytics,
+software/app/web development and/or database management and visualization.
+
+Please feel free to check out my socials included on the bottom of the home page and please email me with any questions you might have!

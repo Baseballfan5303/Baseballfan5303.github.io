@@ -5,7 +5,9 @@ theme: minima
 title: Andrew Scheiner's Website
 
 #Set author
-author: Andrew Scheiner
+author: 
+  name: Andrew Scheiner
+  email: scheinera53@gmail.com
 
 #Set description:
 description: A website to showcase my projects, skills, and interests in computer science, data analytics, development, sports, and more!

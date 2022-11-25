@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Connecting the Game
 permalink: /ctg/

@@ -18,3 +18,8 @@ minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/Baseballfan5303" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/andrew-scheiner-8827b9233/" }
+  
+#include folders on build
+include:
+  - "_includes"
+  - "_layouts"

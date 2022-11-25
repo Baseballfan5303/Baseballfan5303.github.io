@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![A picture of me.](https://github.com/Baseballfan5303/Baseballfan5303.github.io/blob/main/_includes/images/me.jpg)
+![A picture of me.](https://github.com/Baseballfan5303/Baseballfan5303.github.io/blob/ad1a369f1831986752d1e5dd31c27f223a22f20a/assets/me.jpg)
 Hello! My name is Andrew Scheiner and thank you for taking the time to check out my new website hosted by GitHub pages.
 I live in Allentown, Pennsylvania and I am currently a sophomore at Dickinson College (Carlisle, PA) double majoring in both Computer Science and Data Analytics. 
 My experience includes data analysis and visualization, app and web development, research, and coding through college courses and jobs.

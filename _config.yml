@@ -1,6 +1,5 @@
 #Sets website theme
 theme: minima
-###################
 
 #Set title
 title: Andrew Scheiner's Website
@@ -11,7 +10,7 @@ author:
   email: scheinera53@gmail.com
 
 #Set description:
-description: A website to showcase my projects, skills, and interests in computer science, data analytics, development, sports, and more!
+description: My personal wesbite to showcase my projects, skills, and interests in computer science, data analytics, development, visualization, sports, and more!
 
 #Social links:
 minima:

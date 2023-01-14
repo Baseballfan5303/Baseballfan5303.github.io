@@ -22,20 +22,20 @@ So, this guide will outline the following topics (*italicized* = done):
 Well, great question. Merriam-Webster defines computer science as \"a
 branch of science that deals with the theory of computation or the
 design of computers.\" And Wikipedia gives a much more detailed
-definition: \"the study of [algorithmic
-processes]{style="background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}, [computational
-machines]{style="background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"} and
-computation itself\...s[pans a range of topics from theoretical studies
-of ]{style="line-height: 1; unicode-bidi: isolate;"}[algorithms]{style="line-height: 1; unicode-bidi: isolate; background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}[, ]{style="line-height: 1; unicode-bidi: isolate;"}[computation]{style="line-height: 1; unicode-bidi: isolate; background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}[ and ]{style="line-height: 1; unicode-bidi: isolate;"}[information]{style="line-height: 1; unicode-bidi: isolate; background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}[ to
+definition: \"the study of algorithmic
+processes, computational
+machines and
+computation itself pans a range of topics from theoretical studies
+of algorithms, computation and information to
 the practical issues of implementing computational systems
-in ]{style="line-height: 1; unicode-bidi: isolate;"}[hardware]{style="line-height: 1; unicode-bidi: isolate; background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}[ and ]{style="line-height: 1; unicode-bidi: isolate;"}[software]{style="line-height: 1; unicode-bidi: isolate; background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"}[.\"
+in hardware and software."
 As someone who has been developing and programming for fun over the past
 few years, I feel like the simplest definition I can give is that
 computer science is the study of how computers function and the endless
 possibilities that come along with them. By saying \"endless
 possibilities\" I am hinting at the potential computers have and how
 many different aspects of computers are used in many different
-specialized fields.]{style="line-height: 1; unicode-bidi: isolate;"}
+specialized fields.
 
 **How big is computer science? (& application vs. theory)**
 
@@ -90,7 +90,7 @@ learning what you want on your own. This is what I recommend you do:
 2.  Don\'t just Google Search \"how to get started with\" because it
     will give you too many results. Head to Microsoft Learn before you
     resort to using your search
-    engine: [[https://docs.microsoft.com/learn]{.underline}](https://docs.microsoft.com/learn)
+    engine: [https://docs.microsoft.com/learn](https://docs.microsoft.com/learn).
 3.  Once on Microsoft Learn, create a Microsoft account if you don\'t
     have one or sign in if you do have one. (Not entirely necessary, but
     good if you want to save what you do in the next few steps)

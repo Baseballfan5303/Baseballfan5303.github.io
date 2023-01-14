@@ -18,7 +18,7 @@ Data,\" and responding to it.
 I would love to write a whole post really diving into this topic, but I
 already did it in my paper, so I will let it speak for itself.
 
-To check it out, here is the link: \[\]. I have included Kate
+To check it out, here is the link: [Data Analytics Papers](https://github.com/Baseballfan5303/DataAnalyticsPapers). I have included Kate
 Crawford\'s article on there too!
 
 Enjoy!

@@ -64,7 +64,7 @@ making this project began desiring a simple console app which would
 simulate individual teams\' seasons for projections or simulate entire
 MLB seasons based on projected WAR. Additionally, three main variables
 were potent in using my data and model
-together: *knownWins*,* expectedWins*,* *and *knownWAR*. And of course,
+together: *knownWins*, *expectedWins*, and *knownWAR*. And of course,
 to understand the data I used, I went to
 [Baseball-Reference](https://www.baseball-reference.com/leagues/team_compare.cgi?request=1&year=2021&lg=MLB&stat=WAR)
 and manually entered each team\'s total WAR data from the years

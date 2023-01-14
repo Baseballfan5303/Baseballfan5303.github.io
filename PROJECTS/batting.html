@@ -1,0 +1,50 @@
+<html>
+<head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h1>2022 MILB Hitters</h1>
+    <h3>Scatterplot and dropdown implemented</h3>
+    <div id="controls">
+      <p>Use the sliders to filter the data.</p>
+      <ul>
+        <li>
+          <span>
+            Age:
+            <input type="range" name="age" id="age" min="15" max="50" value="20">
+          </span>
+          <p id="age-v"></p>
+        </li>
+        <li>
+          <span>
+            Plate Appearances:
+            <input type="range" name="pa" id="pa" min="0" max="700" value="100">
+          </span>
+          <p id="pa-v"></p>
+        </li>
+      </ul>
+      <p>Select your variables and watch the plot change.</p>
+      <ul>
+        <li>
+          <span class="xvar">
+            X-Axis:
+            <select class="xvar" name="xvar"></select>
+          </span>
+          <br />
+        </li>
+        <li>
+          <span class="yvar">
+            Y-Axis:
+            <select class="yvar" name="yvar"></select>
+          </span>
+          <br />
+        </li>
+      </ul>
+    </div>
+    <svg id="batters-scatter"></svg>
+    <p>
+      <strong>Data Source:</strong> FanGraphs
+    </p>
+    <script src="batting.js"></script>
+  </body>
+</html>

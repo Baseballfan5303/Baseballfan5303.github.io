@@ -1,16 +1,12 @@
 4/23/21
 
- 
-
 Happy Friday everyone!
-
- 
 
 I thought I would introduce the sports aspect of Connecting the Game
 with a classic video game franchise that is regarded as one of the best
 in sports video games. No, not Madden\...MLB The Show (MTS). MLB The
 Show 21 released for everyone on April
-20[th]{style="vertical-align:super"} for both Xbox and PlayStation for
+20th for both Xbox and PlayStation for
 the first time in its existence. My history with baseball is that I have
 been watching it for twelve years, I play for teams myself, and I am a
 diehard Texas Rangers fan. My history with baseball video games starts
@@ -21,17 +17,15 @@ live first thoughts during my first time playing the official new MLB
 The Show 21. (I used a stopwatch to get the near exact minutes and
 seconds for fun!)
 
-\
-
 (1:00) Great intro!
 
 (2:00) I like that they give you the option to play one of three
-different play stylesâ€¦but let\'s see how they are. I will start with
+different play styles but let\'s see how they are. I will start with
 Simulation.
 
 (2:30) Time for practice!
 
-(2:50) I have to face the Dodgers as the Rangers in the practice gameâ€¦
+(2:50) I have to face the Dodgers as the Rangers in the practice game
 
 (6:20) Oh boy is pinpoint pitching gonna be interesting.
 
@@ -49,7 +43,7 @@ far:
     than Xbox 2k13
 -   Nope, track fielding does not work for me. I need to have that ball
     icon.
--   The graphics seem laggy on the Xbox Oneâ€¦maybe because of framerate
+-   The graphics seem laggy on the Xbox One maybe because of framerate
     limits?
 
 (13:50) I love Globe Life Field.
@@ -82,7 +76,7 @@ Diamond Dynasty (DD), March to October, and Franchise.
 not like it so I started over and randomized. Onto loadouts!
 
 -   They make no sense.
--   Why canâ€™t I just set my primary and secondary positions?
+-   Why can't I just set my primary and secondary positions?
 
 (59:00) Onto Diamond Dynasty!
 
@@ -124,8 +118,6 @@ Rangers but he doesnâ€™t exist.
 (94:00) No changes to the Franchise mode starting options. But hey, at
 least I can make a league-wide DH rule and no extra-innings runner like
 there should be.
-
- 
 
 I eventually took a break and have played about a dozen hours since
 launch day, so here are my now final thoughts from my first few
@@ -200,8 +192,3 @@ baseball and video games, I absolutely recommend playing this game.
 Until next time!
 
 ***-Andrew***
-
-------------------------------------------------------------------------
-
-*Bonus points if you find the baseball Yordan Alvarez hits in the
-post\'s picture :)*

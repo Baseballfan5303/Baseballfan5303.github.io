@@ -15,7 +15,9 @@ while also using their performance to possibly predict how well an
 expansion team might perform in today\'s MLB.
 
 I would write a whole big explanation about my report, but I think I
-should let it speak for itself. To check it out, use this link: \[\].
+should let it speak for itself. To check out the final report, use this link: [Data Analytics Papers](https://github.com/Baseballfan5303/DataAnalyticsPapers).
+I also used supplementary GitHub repo for this project which includes some explanations, outputs, and the dataset I used for this project.
+Here is that link: [Analyzing MLB Franchises Since 1998](https://github.com/Baseballfan5303/AnalyzingMLBFranchisesSince1998)
 
 I really thought that the outline I used help organize the paper and
 make a solid foundation for how to approach a data analytics problem.

@@ -18,7 +18,7 @@ baseball statistician.\
 1.  Set up a workspace to use our data as input into a program
 2.  Collect existing baseball data (we will be using data from the 2019
     MLB Season found
-    on [[https://www.baseball-reference.com/]{.underline}](https://www.baseball-reference.com/)
+    on [https://www.baseball-reference.com/](https://www.baseball-reference.com/)
 3.  Find formulas to calculate our desired stats\
 4.  Create a program that reads our data (input) and calculates then
     outputs our desired stats
@@ -30,11 +30,11 @@ in Visual Studio Code (VSC). Much like its friend Visual Studio
 developed by the same company, Microsoft, VSC specializes in coding and
 even has really good development and extension features. I recommend
 downloading it to make a workspace where our data is easily
-accessible: [[https://code.visualstudio.com/Download]{.underline}](https://code.visualstudio.com/Download).
+accessible: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download).
 
 Once you have downloaded VSC, if you do not have Python installed
 already, please use this link to download its
-software: [[https://www.python.org/downloads]{.underline}](https://www.python.org/downloads).
+software: [https://www.python.org/downloads](https://www.python.org/downloads).
 I recommend downloading the latest version available. If you are unsure,
 just download a 3.7 or 3.8 version.
 
@@ -59,9 +59,9 @@ For this article and teaching purposes, I will be using two sets of
 customized data from Baseball Reference. These are the two sets:
 
 -   2019 MLB Standard Batting
-    Stats: [[https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml]{.underline}](https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml)
+    Stats: [https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml](https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml)
 -   2019 MLB Standard Pitching
-    Stats: [[https://www.baseball-reference.com/leagues/MLB/2019-standard-pitching.shtml]{.underline}](https://www.baseball-reference.com/leagues/MLB/2019-standard-pitching.shtml)
+    Stats: [https://www.baseball-reference.com/leagues/MLB/2019-standard-pitching.shtml](https://www.baseball-reference.com/leagues/MLB/2019-standard-pitching.shtml)
 
 I used these two data sets and customized them for the purpose of this
 article. I did so by clicking the \"Share & Export\" dropdown menu and
@@ -81,7 +81,7 @@ it from. This applies to anything you find on the Internet!
 For this article, I changed some things up so that your program only
 analyzes around 10 players at a time instead of all 1,000.  You can
 download those \"partial data\" .csv files I used through my
-GitHub: [[https://github.com/Baseballfan5303/VS-BlogWebsite/tree/main/BlogArticles/AutomatedBaseballStats]{.underline}](https://github.com/Baseballfan5303/VS-BlogWebsite/tree/main/BlogArticles/AutomatedBaseballStats).
+GitHub: [https://github.com/Baseballfan5303/VS-BlogWebsite/tree/main/BlogArticles/AutomatedBaseballStats](https://github.com/Baseballfan5303/VS-BlogWebsite/tree/main/BlogArticles/AutomatedBaseballStats).
 Using only a part of the large dataset allows testing the Python program
 to be quicker and easier.
 
@@ -89,7 +89,7 @@ to be quicker and easier.
 
 Before we go through the code, we need to find the formulas to calculate
 our desired stats. The website we will use for this is Fangraphs
-([[https://library.fangraphs.com/]{.underline}](https://library.fangraphs.com/)).
+([https://library.fangraphs.com/](https://library.fangraphs.com/)).
 Use the search bar to type in each stat in order to find the proper
 formula to use.
 
